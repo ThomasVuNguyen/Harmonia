@@ -1,0 +1,2 @@
+Previous/Parent file path: ../file.txt
+Current directory: ./file.txt
