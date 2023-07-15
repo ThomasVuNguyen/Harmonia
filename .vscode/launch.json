@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Day 3/5.1. Adding CSS/external.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Day 3/5.1. Adding CSS/external.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Day 4/5.3 CSS Selectors/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Day 4/5.3 CSS Selectors/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Day 4/5.4 Color Vocab Project/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Day 4/5.4 Color Vocab Project/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Day 4/6.0 CSS Colors/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Day 4/6.0 CSS Colors/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/Day 4/6.1 Font Properties/font-size.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/Day 4/6.1 Font Properties/font-size.html"
+        }
+    ]
+}
