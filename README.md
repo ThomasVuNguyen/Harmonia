@@ -9,12 +9,18 @@
     <a href="https://comfystudio.tech">
     <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Youtube Badge"/>
   </a>
+    </a>
+    <a href="https://comfystudio.tech">
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
 **`Let's do it the right way`**
 After a long time of not doing any web development, I'm seeing so many innovative changes in the industry. Technologies such as HTMX, Tailwind, Supabase,... prove that it's time for me to re-learn web development.
 
 This time, I will learn web development the properly, one block at a time.
+
+Update: As of 8/17/2023, this repository will also be used for my C practice.
 
 **`Day 1: Basic HTML`**
 Refreshing my understanding on HTML
@@ -24,4 +30,4 @@ Refreshing my understanding on HTML
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
