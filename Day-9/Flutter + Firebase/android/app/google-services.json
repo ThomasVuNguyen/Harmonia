@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597517560448",
+    "project_id": "fireshipcourse-edfd1",
+    "storage_bucket": "fireshipcourse-edfd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597517560448:android:61c1d63596d37cdece1465",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597517560448-38ufa2eia5hkvrku99521qlq6m7gc946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QlSt5Yed3CQ7M2l0DcIuREmQAmHHPx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597517560448-38ufa2eia5hkvrku99521qlq6m7gc946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
